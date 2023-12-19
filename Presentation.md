@@ -19,15 +19,15 @@ text
 
 <br>
 
-## subtitle
-text
+## Monthly Price Trends
+This report page shows monthly trends for sale and rent pricing of apartments with varying room numbers. It provides a straightforward comparison to track market changes over time.
 
 ![3](https://github.com/gnoevoy/Apartment_Prices_Analysis/assets/43414592/9232bfda-074f-4f90-be2f-361a22d044a3)
 
 <br>
 
-## subtitle
-text
+## Two-Room Apartment Market Analysis
+This report focused on two-room apartments, detailing monthly price trends and percentage growth.
 
 ![4](https://github.com/gnoevoy/Apartment_Prices_Analysis/assets/43414592/8654eabc-2cc6-489c-8419-9efde6cb1175)
 
