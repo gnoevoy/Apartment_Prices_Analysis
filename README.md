@@ -20,6 +20,8 @@ The main goal of this analysis is to show to different user groups – students 
 
 ## Dataset Overview
 
+The dataset includes information on apartments for sale and rent in Poland's 15 biggest cities. The information is taken from local apartment sale websites and gathered every month. It covers the period from August 2023 to December 2023.
+
 ### Table's descriptions
 - column
 - column
