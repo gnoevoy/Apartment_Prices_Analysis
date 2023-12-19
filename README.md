@@ -14,14 +14,12 @@ text
 
 <br>
 
-## [Power BI Presentation]()
-## [Jupyter Notebook]()
+## [Power BI Presentation](https://github.com/gnoevoy/Apartment_Prices_Analysis/blob/main/Presentation.md)
+## [Jupyter Notebook](https://github.com/gnoevoy/Apartment_Prices_Analysis/blob/main/apartment_prices.ipynb)
 
 <br>
 
 ## Dataset Overview
-
-![dataset_img]()
 
 ### Table's descriptions
 - column
@@ -31,6 +29,6 @@ text
 <br>
 
 ## Additional Links
-- [Dataset]()
-- [Power BI file]()
-- [Project Repository]()
+- [Dataset](https://github.com/gnoevoy/Apartment_Prices_Analysis/blob/main/Dataset.zip)
+- [Power BI file](https://github.com/gnoevoy/Apartment_Prices_Analysis/blob/main/apartment_prices.pbix)
+- [Project Repository](https://github.com/gnoevoy/Apartment_Prices_Analysis/tree/main)
