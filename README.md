@@ -1,6 +1,6 @@
 ![cover](https://github.com/gnoevoy/Apartment_Prices_Analysis/assets/43414592/026cc005-ada7-47a5-a5f0-f069bb2b9255)
 
-This project offers a detailed exploration of the apartment sale and rental markets in the Polish cities of Gdansk and Gdynia.
+This project offers exploration of the apartment sale and rental markets in the Polish cities of Gdansk and Gdynia.
 The focus is on analyzing apartment prices, both for sale and rent, with the aim of providing insights that support informed decision-making for potential tenants and buyers.
 
 ### Objective
