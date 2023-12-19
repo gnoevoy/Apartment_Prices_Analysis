@@ -32,8 +32,8 @@ text
 <br>
 
 ### Navigation links
-- [Jupyter Notebook File]()
-- [README.md]()
+- [Jupyter Notebook File](https://github.com/gnoevoy/Apartment_Prices_Analysis/blob/main/apartment_prices.ipynb)
+- [README.md](https://github.com/gnoevoy/Apartment_Prices_Analysis/blob/main/README.md)
 
 
 
