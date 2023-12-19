@@ -22,6 +22,31 @@ The main goal of this analysis is to show to different user groups – students 
 
 The dataset includes information on apartments for sale and rent in Poland's 15 biggest cities. The information is taken from local apartment sale websites and gathered every month. It covers the period from August 2023 to December 2023.
 
+| File | Description |
+| --- | --- |
+| `apartments_pl_YYYY_MM` | Monthly snapshot of sell offers |
+| `apartments_rent_pl_YYYY_MM` | Monthly snapshot of rent offers |
+
+| Column | Description |
+| --- | --- |
+| `city` | The name of the city where the property is located |
+| `type` | Type of the building |
+| `squareMeters` | The size of the apartment in square meters |
+| `rooms` | Number of rooms in the apartment |
+| `floor` / `floorCount` | The floor where the apartment is located and the total number of floors in the building |
+| `buildYear` | The year when the building was built |
+| `latitude`, `longitude` | Geo coordinates of the property |
+| `centreDistance` | Distance from the city centre in km |
+| `poiCount` | Number of points of interest in a 500m range from the apartment |
+| `[poiName]Distance` | Distance to the nearest point of interest (e.g., schools, clinics) |
+| `ownership` | The type of property ownership |
+| `condition` | The condition of the apartment |
+| `has[features]` | Whether the property has key features (e.g., parking space, balcony, elevator, security, storage) |
+| `price` | Offer price in Polish Zloty (sale offers: sale price, rent offers: monthly rent) |
+
+
+
+
 ### Table's descriptions
 - column
 - column
