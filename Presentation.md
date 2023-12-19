@@ -1,5 +1,7 @@
-# title
+# Power BI Presentation
+
 text
+For a better experience, you can download [Power BI file](https://github.com/gnoevoy/Apartment_Prices_Analysis/blob/main/apartment_prices.pbix) to leverage its interactivity capabilities and explore the data independently.
 
 <br>
 
