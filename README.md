@@ -7,9 +7,9 @@ The focus is on analyzing apartment prices, both for sale and rent, with the aim
 The main goal of this analysis is to show to different user groups – students and families – by offering them clear insights to guide their decisions in the housing market.
 
 ### As a Data Analyst, I took the following steps:
-1. text
-2. text
-3. text
+1. Collecting and processing apartment sales and rental data for Gdansk and Gdynia.
+2. Performing exploratory data analysis, including distribution, correlations, and monthly trend analysis.
+3. Developing visualizations and interactive reports using BI tool.
 
 <br>
 
