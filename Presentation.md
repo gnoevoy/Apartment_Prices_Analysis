@@ -5,15 +5,15 @@ For a better experience, you can download [Power BI file](https://github.com/gno
 
 <br>
 
-## subtitle
-text
+## Rental Market Insights for Students
+This dashboard provides students with an interactive map to explore rental prices in Gdańsk and Gdynia based on the latest 2 months offers.
 
 ![1](https://github.com/gnoevoy/Apartment_Prices_Analysis/assets/43414592/d19a880b-d189-48dc-9a05-30694183a5f7)
 
 <br>
 
-## subtitle
-text
+## Sale Market Insights for Families
+This dashboard offers families a detailed view of the home-buying market, focusing on recent sale price trends over the past 5 months
 
 ![2](https://github.com/gnoevoy/Apartment_Prices_Analysis/assets/43414592/33d83f03-ac48-4af5-af8c-490997bb7716)
 
