@@ -29,7 +29,7 @@ The dataset includes information on apartments for sale and rent in Poland's 15 
 | `apartments_pl_YYYY_MM` | Monthly snapshot of sell offers |
 | `apartments_rent_pl_YYYY_MM` | Monthly snapshot of rent offers |
 
-### Columns
+### Data Fields
 
 | Column | Description |
 | --- | --- |
