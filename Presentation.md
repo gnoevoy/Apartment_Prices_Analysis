@@ -27,7 +27,7 @@ This report page shows monthly trends for sale and rent pricing of apartments wi
 <br>
 
 ## Two-Room Apartment Market Analysis
-This report focused on two-room apartments, detailing monthly price trends and percentage growth.
+This report page is focused on two-room apartments, detailing monthly price trends and percentage growth.
 
 ![4](https://github.com/gnoevoy/Apartment_Prices_Analysis/assets/43414592/8654eabc-2cc6-489c-8419-9efde6cb1175)
 
