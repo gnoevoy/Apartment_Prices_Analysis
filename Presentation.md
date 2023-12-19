@@ -1,6 +1,6 @@
 # Power BI Presentation
 
-text
+This presentation is crafted to provide a clear understanding of the apartments market in Polish cities.
 For a better experience, you can download [Power BI file](https://github.com/gnoevoy/Apartment_Prices_Analysis/blob/main/apartment_prices.pbix) to leverage its interactivity capabilities and explore the data independently.
 
 <br>
